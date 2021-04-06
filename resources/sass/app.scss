@@ -1,0 +1,12 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+@import "./variables";
+
+:root {
+    --color-primary: $primary;
+    --color-accent: $accent;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
